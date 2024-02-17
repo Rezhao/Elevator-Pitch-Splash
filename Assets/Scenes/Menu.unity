@@ -1733,7 +1733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadingScreen: {fileID: 88623535}
   slider: {fileID: 1536710002}
-  progressText: {fileID: 0}
+  progressText: {fileID: 2083381880}
 --- !u!1 &1455804715
 GameObject:
   m_ObjectHideFlags: 0
